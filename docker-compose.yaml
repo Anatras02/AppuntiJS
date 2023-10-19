@@ -7,4 +7,4 @@ services:
       - "8887:8888"
     volumes:
       - .:/home/jovyan/work/
-    command: start-notebook.sh --NotebookApp.token=''
+    command: start-notebook.sh --NotebookApp.token='' --notebook-dir=/home/jovyan/work/Appunti
