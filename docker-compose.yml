@@ -3,6 +3,7 @@ version: '3.8'
 services:
   jupyter:
     build: .
+    image: jupyter-js:latest
     ports:
       - "8887:8888"
     volumes:
