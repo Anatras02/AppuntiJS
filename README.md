@@ -48,7 +48,3 @@
 ### Nota
 
 Assicurati di avere Docker, Docker Compose e Git installati sul tuo sistema prima di procedere. Se stai eseguendo lo script `start.sh` su Windows, potrebbe essere necessario eseguirlo come amministratore per garantire che tutti i comandi siano eseguiti correttamente.
-
----
-
-Ho rimosso la parte che menzionava la clonazione e ho lasciato solo il passo per fare la pull dal repository. 
